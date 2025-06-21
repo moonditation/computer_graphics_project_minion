@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(258,35): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(258,66): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(259,35): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(259,66): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(316,39): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(359,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(360,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(362,44): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(363,44): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(589,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(606,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(607,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(712,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(752,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\CG_Project\computer_graphics_project_minion\First\First\main.cpp(849,35): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  First.vcxproj -> C:\Projects\CG_Project\computer_graphics_project_minion\First\x64\Debug\First.exe
